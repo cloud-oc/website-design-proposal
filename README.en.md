@@ -31,6 +31,7 @@ Provide the website type, target audience, primary user action, scope, target de
 - `SKILL.md`: Core workflow and writing requirements.
 - `references/proposal-framework.md`: A proposal framework that can be adapted to the scope.
 - `references/module-guide.md`: Guidance for news, reservations, result queries, landing pages, and other modules.
+- `references/global-interactions.md`: Global navigation, media, motion, and viewport adaptation guidance.
 - `references/source-notes.md`: Source material and the boundaries of the extracted guidance.
 - `agents/openai.yaml`: Codex UI metadata.
 

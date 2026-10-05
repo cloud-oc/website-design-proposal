@@ -31,6 +31,7 @@ Webサイトの種類、対象ユーザー、主なユーザー行動、今回�
 - `SKILL.md`：基本の作業フローと執筆要件。
 - `references/proposal-framework.md`：対象範囲に合わせて調整できる提案書の構成。
 - `references/module-guide.md`：ニュース、事前登録、結果照会、ランディングページなどのモジュール別ガイド。
+- `references/global-interactions.md`：共通ナビゲーション、メディア、動き、画面サイズへの対応ガイド。
 - `references/source-notes.md`：元資料と、抽出した指針の適用範囲。
 - `agents/openai.yaml`：CodexのUIメタデータ。
 

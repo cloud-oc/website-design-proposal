@@ -31,6 +31,7 @@ git clone https://github.com/cloud-oc/website-design-proposal.git ~/.codex/skill
 - `SKILL.md`：核心流程与写作要求。
 - `references/proposal-framework.md`：可裁剪的方案框架。
 - `references/module-guide.md`：资讯、预约、查询、落地页等模块指南。
+- `references/global-interactions.md`：全局导航、媒体、动效与屏幕适配指南。
 - `references/source-notes.md`：来源与提炼边界。
 - `agents/openai.yaml`：Codex UI 元数据。
 
