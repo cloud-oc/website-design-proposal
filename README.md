@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/Chinese-0969da?style=for-the-badge" alt="简体中文" /></a>
+  <a href="README.en.md"><img src="https://img.shields.io/badge/English-555555?style=for-the-badge" alt="English" /></a>
+  <a href="README.ja.md"><img src="https://img.shields.io/badge/Japanese-555555?style=for-the-badge" alt="日本語" /></a>
+</p>
+
 # 网站设计方案撰写 Skill
 
 将网站需求、现有方案和设计稿整理成可评审、可交付的设计方案，覆盖目标拆解、页面结构、交互规则、UI 标注、多端差异和验收要求。
@@ -27,6 +33,8 @@ git clone https://github.com/cloud-oc/website-design-proposal.git ~/.codex/skill
 - `references/module-guide.md`：资讯、预约、查询、落地页等模块指南。
 - `references/source-notes.md`：来源与提炼边界。
 - `agents/openai.yaml`：Codex UI 元数据。
+
+Skill 指令与参考文档使用中文；需要其他语言的方案时，可在调用时指定输出语言。
 
 原始项目图稿不随仓库分发，使用不依赖原始本地目录或外部设计链接。
 
